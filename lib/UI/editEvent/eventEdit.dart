@@ -237,7 +237,7 @@ class _EventeditState extends State<Eventedit> {
                     return null;
                   },
                   controller: descriptionController,
-                  labelText: App.event_descrption,
+                  labelText: App.event_description,
                   maxlines: 3,
                 ),
                 const SizedBox(height: 16),

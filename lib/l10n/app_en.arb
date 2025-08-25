@@ -15,7 +15,7 @@
     "all": "All",
     "gaming": "Gaming",
     "eating": "Eating",
-    "hoilday": "Hoilday",
+    "holiday": "Holiday",
     "bookClub": "BookClub",
     "login": "Login",
     "forget_password": "Forget Password ?",
@@ -31,8 +31,8 @@
     "register": "Register",
     "name": "Name",
     "password": "Password",
-    "confirm_password": "re-enter Password",
-    "already_haveaccount": "Already have account?",
+    "confirm_password": "Re-enter Password",
+    "already_haveaccount": "Already have an account?",
     "event_details": "Event Details",
     "description": "Description",
     "title": "Title",
@@ -43,26 +43,20 @@
     "update_event": "Update Event",
     "event_edit": "Event Edit",
     "event_title": "Event Title",
-    "event_descrption": "Event Description",
-    "search_event":"Search for events",
-    "createEvent":"Create Event",
-    "select_date":"Select Date",
-    "select_time":"Select Time",
-    "select_event_location":"Choose Event Location",
-    "please_select_date_time":"Please select date and time",
-    "event_addedsuccessfully":"Event created successfully!",
-    "event_failedtryagain":"Failed to create event. Please try again.",
-    "please_enterdescription":"Please enter description",
-    "please_entertitle":"Please enter title",
-    "select_eventlocation":"Select Event Location",
-    "please_selectdatetime":"Please select date and time",
-    "forgotPassword":"Forgot Password",
-    "resetPassword":"Reset Password"
-    
-
-
-
-
-
-
+    "event_description": "Event Description",
+    "search_event": "Search for events",
+    "createEvent": "Create Event",
+    "select_date": "Select Date",
+    "select_time": "Select Time",
+    "select_event_location": "Choose Event Location",
+    "please_select_date_time": "Please select date and time",
+    "please_selectdatetime": "Please select date and time",
+    "event_addedsuccessfully": "Event created successfully!",
+    "event_failedtryagain": "Failed to create event. Please try again.",
+    "please_enterdescription": "Please enter description",
+    "please_entertitle": "Please enter title",
+    "select_eventlocation": "Select Event Location",
+    "forgotPassword": "Forgot Password",
+    "resetPassword": "Reset Password",
+    "hoilday": "Hoilday"
 }

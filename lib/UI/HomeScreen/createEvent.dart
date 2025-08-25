@@ -193,7 +193,7 @@ class _CreateeventState extends State<Createevent> {
                   }
                 ),
                 const SizedBox(height: 16),
-                 Text(App.event_descrption,
+                 Text(App.event_description,
                   style: TextStyle(
                     color: provider.isdDarkMode ? Colors.white : Colors.black,
                   ),
@@ -207,7 +207,7 @@ class _CreateeventState extends State<Createevent> {
                     return null;
                   }, 
                   controller: descriptionController,  
-                  labelText: App.event_descrption,
+                  labelText: App.event_description,
                   maxlines: 3,
                 ),
                 const SizedBox(height: 16),

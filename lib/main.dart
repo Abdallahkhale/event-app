@@ -24,8 +24,6 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:provider/provider.dart';
 import 'firebase_options.dart';
-
-
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await localStorage.init();
@@ -59,7 +57,7 @@ class MyApp extends StatelessWidget {
     var provider = Provider.of<Settingprovider>(context);
     return  MaterialApp(
       debugShowCheckedModeBanner: false,
-
+    
       themeMode: provider.isdDarkMode ? ThemeMode.dark : ThemeMode.light,
       theme: themeDataclass.lightTheme,
       darkTheme: themeDataclass.darkTheme,

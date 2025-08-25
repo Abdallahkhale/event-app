@@ -11,6 +11,7 @@ import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
+
 class Eventedit extends StatefulWidget {
   Eventedit({super.key, required this.data});
   EventData data;

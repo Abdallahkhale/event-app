@@ -2,12 +2,12 @@ import 'dart:math';
 import 'package:evently/Core/settingProvider.dart';
 import 'package:evently/Core/utils/Google_Auth.dart';
 import 'package:evently/Core/utils/firebase_Auth_utils.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 import 'package:evently/Core/Assets/Color/Colors.dart';
 import 'package:evently/Core/Assets/Icons/iconsPath.dart';
 import 'package:evently/Core/Assets/Images/Imagespath.dart';
 import 'package:evently/Core/Custom/Customtextform.dart';
+import 'package:evently/gen_l10n/app_localizations.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

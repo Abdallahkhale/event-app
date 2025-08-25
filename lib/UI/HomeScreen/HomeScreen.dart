@@ -5,8 +5,8 @@ import 'package:evently/UI/HomeScreen/Love.dart';
 import 'package:evently/UI/HomeScreen/Map.dart';
 import 'package:evently/UI/HomeScreen/profile.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:provider/provider.dart';
+import 'package:evently/gen_l10n/app_localizations.dart';
 
 class Homescreen extends StatefulWidget {
   const Homescreen({super.key});

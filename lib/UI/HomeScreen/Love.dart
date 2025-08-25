@@ -4,8 +4,7 @@ import 'package:evently/Core/Custom/Customtextform.dart';
 import 'package:evently/Core/models/event_data.dart';
 import 'package:evently/Core/utils/firebase_firestores_utils.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-
+import 'package:evently/gen_l10n/app_localizations.dart';
 class LovePagState extends StatefulWidget {
   const LovePagState({super.key});
 

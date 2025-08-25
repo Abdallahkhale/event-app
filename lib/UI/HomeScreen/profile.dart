@@ -4,13 +4,14 @@ import 'package:evently/Core/settingProvider.dart';
 import 'package:evently/Core/utils/Google_Auth.dart';
 import 'package:evently/Core/utils/firebase_Auth_utils.dart';
 import 'package:evently/Core/utils/firebase_firestores_utils.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 import 'package:animated_custom_dropdown/custom_dropdown.dart';
 import 'package:evently/Core/Assets/Color/Colors.dart';
 import 'package:evently/Core/Assets/Images/Imagespath.dart';
+import 'package:evently/gen_l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+
 
 class ProfilePage extends StatelessWidget {
   const ProfilePage({super.key});

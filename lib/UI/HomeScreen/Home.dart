@@ -8,8 +8,8 @@ import 'package:evently/Core/settingProvider.dart';
 import 'package:evently/Core/utils/firebase_Auth_utils.dart';
 import 'package:evently/Core/utils/firebase_firestores_utils.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:provider/provider.dart';
+import 'package:evently/gen_l10n/app_localizations.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
